@@ -1,0 +1,288 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+}
+
+/* NAV*/
+
+.freetrial a {
+  text-decoration: none;
+  padding: 15px 45px;
+  color: white;
+  border: 1px solid white;
+  border-radius: 3px;
+}
+
+.freetrial a:hover {
+  background-color: white;
+  color: black;
+  transition: 0.8s;
+}
+
+.laptop {
+  height: 300px;
+  width: 500px;
+}
+
+.icon1 {
+  height: 40px;
+  width: 40px;
+}
+
+.section2-h1 {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.section3nav a {
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+  background-color: white;
+  border-radius: 4px;
+  padding: 20px 50px;
+}
+
+.section3-h2 {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.section3-h3 {
+  font-size: 17px;
+}
+
+.section3-p {
+  color: gray;
+  font-size: 15px;
+}
+
+.section5-p {
+  color: gray;
+  font-size: 15px;
+}
+
+.section5-h1 {
+  font-size: 18px;
+}
+
+.price-header {
+  text-align: center;
+  padding: 0;
+}
+
+.price-header h1 {
+  padding: 35px;
+  font-size: 22px;
+  font-weight: bold;
+  background-color: #edf6ff;
+}
+
+.price-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.price-body a {
+  padding-top: 20px;
+  text-decoration: none;
+  color: gray;
+}
+
+.price-footer {
+  background-color: #edf6ff;
+  margin: 70px;
+  margin-top: 20px;
+  border-radius: 4px;
+}
+
+.pf1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 30px;
+}
+
+.dolar {
+  font-weight: bold;
+  font-size: 25px;
+  margin-right: 15px;
+  margin-top: 10px;
+}
+
+.permonth1 {
+  font-size: 15px;
+  color: gray;
+  margin-left: 15px;
+  margin-top: 27px;
+  font-weight: bold;
+}
+
+.pf2 {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 40px;
+}
+
+.pf2 a {
+  text-decoration: none;
+  padding: 15px 40px;
+  color: white;
+  font-size: 14px;
+  border-radius: 5px;
+  background-color: #3bacf0;
+}
+
+.price-body a {
+  font-size: 14px;
+}
+
+.cena {
+  font-size: 60px;
+}
+
+.list1 a {
+  padding-right: 15px;
+  color: black;
+}
+
+.footer h1 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.blue-color1 {
+  background-color: #3bacf0;
+}
+
+.white-color1 {
+  background-color: #edf6ff;
+}
+
+.section1-p {
+  color: white;
+  font-size: 15px;
+}
+
+.section1-h1 {
+  font-weight: bold;
+  color: white;
+  font-size: 46px;
+}
+
+.section1-btn {
+  display: flex;
+  flex-direction: row;
+}
+
+.gs-1 a {
+  text-decoration: none;
+  color: white;
+  padding: 15px 30px;
+  border: 1px solid white;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 3px;
+}
+
+.gs-1 a:hover {
+  background-color: white;
+  color: black;
+  transition: 0.8s;
+}
+
+.download a {
+  text-decoration: none;
+  background-color: white;
+  color: black;
+  padding: 15px 30px;
+  border: 1px solid white;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 3px;
+}
+
+.download a:hover {
+  background-color: #3bacf0;
+  color: white;
+  transition: 0.8s;
+}
+
+.section3-link a {
+  background-color: #54bcff;
+  color: white;
+}
+
+.section3-link a {
+  background-color: #54bcff;
+  color: white;
+  text-decoration: none;
+  padding: 15px 35px;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+.section8-link a {
+  color: black;
+  font-size: 14px;
+  background-color: white;
+  padding: 15px 30px;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+.section8-link a:hover {
+  background-color: #3bacf0;
+  border: 1px solid white;
+  color: white;
+  transition: 0.8s;
+}
+
+.section8-h1 {
+  color: white;
+  font-weight: bold;
+}
+
+.footer-h1 {
+  font-size: 25px;
+  color: white;
+}
+
+.sectioncontact-item1 img {
+  height: 20px;
+  width: 20px;
+}
+
+.contact-h1 {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.contact-p {
+  font-size: 13px;
+  color: gray;
+}
+
+.sectioncontact-item2 a {
+  border-radius: 6px;
+  padding: 15px 40px;
+  text-decoration: none;
+  background-color: #54bcff;
+  color: white;
+}
+
+.sectioncontact-item2 a:hover {
+  color: white;
+}
+
+.footer a {
+  text-decoration: none;
+}
+
+.footer i {
+  color: white;
+}
